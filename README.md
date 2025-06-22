@@ -2,7 +2,7 @@
 
 >作者：[程序员小白条](https://luoye6.github.io/)
 >
->[Gitee 主页](https://gitee.com/falle22222n-leaves)
+>[Gitee 主页](https://gitee.com/luoye6)
 >
 >[GitHub 主页](https://github.com/luoye6)
 
@@ -11,10 +11,10 @@
 + 本项目支持 Knife4j 在线接口调用（需在全局参数中添加有效 Token）
 + 未经本人允许擅自将本项目作于商用、竞赛、贩卖源码、毕设擅自改动作者等违法行为，将依法追究法律责任，后果自负，项目已申请软件著作权。
 + 如果项目对您有所帮助，可以Star⭐一下，受到鼓励的我会继续加油。
-+ [项目前端地址](https://gitee.com/falle22222n-leaves/vue3_trade_frontend)
-+ [项目后端地址](https://gitee.com/falle22222n-leaves/vue3_trade_backend)
++ [项目前端地址](https://gitee.com/luoye6/vue3_trade_frontend)
++ [项目后端地址](https://gitee.com/luoye6/vue3_trade_backend)
 
-[![star](https://gitee.com/falle22222n-leaves/vue3_trade_backend/badge/star.svg?theme=dark)](https://gitee.com/falle22222n-leaves/vue_-book-manage-system)  [![gitee](https://badgen.net/badge/gitee/falle22222n-leaves/red)](https://gitee.com/falle22222n-leaves)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)
+[![star](https://gitee.com/luoye6/vue3_trade_backend/badge/star.svg?theme=dark)](https://gitee.com/luoye6/vue3_trade_frontend)  [![gitee](https://badgen.net/badge/gitee/luoye6/red)](https://gitee.com/luoye6)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)
 
 ## ☀️个人介绍
 
@@ -22,6 +22,7 @@
     <img src="https://pic.yupi.icu/5563/202403021406388.png" alt="图片1" style="width: 200px; height: auto;">
     <img src="https://pic.yupi.icu/5563/202403021406360.png" alt="图片2" style="width: 200px; height: auto;">
 </div>
+
 ## ☀️项目介绍
 
 **智能 AI 校园二手交易平台**（Intelligent AI Campus Second-hand Trading Platform）是一个利用 AI 模型和数据分析为用户提供个性化二手商品推荐、商品评分、交易攻略分享等功能的综合性系统。该系统融合了 AI 购物顾问、图表数据分析、买家留言、购物日历、商品浏览、攻略收藏、聊天室互动等多种功能，项目功能总计 20+，并支持拓展会员功能以实现商业化处理。
